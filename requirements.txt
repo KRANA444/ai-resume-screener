@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+sentence-transformers
+spacy
+transformers
+torch
